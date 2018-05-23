@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web:400,700');
+
+body {
+  padding: 50px;
+  font: 14px 'Titillium Web', sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.allcaps{
+  text-transform: uppercase;
+  font-weight: 700;
+}
